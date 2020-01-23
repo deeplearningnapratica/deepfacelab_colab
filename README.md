@@ -11,9 +11,9 @@ Because of this, working with DFL-Colab is not so convenient as working with Dee
 DFL-Colab uses DeepFaceLab and to understand the workflow, you should first understand the DeepFaceLab workflow.
 
 **Official Links**
-- **DFL-Colab Notebook**: [Link](https://colab.research.google.com/github/chervonij/DFL-Colab/blob/master/DFL_Colab_Demo.ipynb)
+- **DFL-Colab Notebook**: [Link](https://colab.research.google.com/github/chervonij/DFL-Colab/blob/master/DFL_Colab.ipynb) -- Works with latest DFL version
+- **DFL-Colab Notebook 1.0**: [Link](https://colab.research.google.com/github/chervonij/DFL-Colab/blob/master/DFL_Colab_1-0.ipynb) -- Works with DFL 1.0 version
 - **DeepFaceLab Repository**: [Link](https://github.com/iperov/DeepFaceLab)
-- **DeepFaceLab Official Manual:** [English](https://github.com/iperov/DeepFaceLab/blob/master/doc/manual_en_google_translated.pdf) / [Russian](https://github.com/iperov/DeepFaceLab/blob/master/doc/manual_ru.pdf)
 - **Youtube channel**: [Link](https://www.youtube.com/channel/UCTKBl8kB6DJ_qLnk1NGDGbQ)
 
 **Community support**
